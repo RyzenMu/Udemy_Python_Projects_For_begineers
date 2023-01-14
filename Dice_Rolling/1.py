@@ -22,6 +22,7 @@
 
 from Visuals_For_1.visuals import visuals 
 import random
+import numpy as np
 
 # def number_to_string(number):
 #     match number:
