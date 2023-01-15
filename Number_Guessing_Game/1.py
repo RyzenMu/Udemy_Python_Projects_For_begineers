@@ -47,6 +47,7 @@ else:
 
 
 print('The Number is :', random_number)
+print('Good Luck')
 
 
 
